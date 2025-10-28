@@ -1,6 +1,6 @@
 # Day 2: Merge Conflicts
 
-### In Class Activities:
+### In Class Activities (for tuesday):
 
 #### Finish Workflow
 - Work in the same repository as Day 1, "caption this"
